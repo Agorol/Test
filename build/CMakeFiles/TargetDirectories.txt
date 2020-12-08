@@ -1,0 +1,3 @@
+/home/agorol/Test/build/CMakeFiles/rebuild_cache.dir
+/home/agorol/Test/build/CMakeFiles/edit_cache.dir
+/home/agorol/Test/build/CMakeFiles/test2.dir

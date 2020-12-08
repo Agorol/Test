@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/agorol/Test/test2.cpp
+iostream
+-
+map
+-
+cstring
+-
+stdio.h
+-
+sstream
+-
+math.h
+-
+
